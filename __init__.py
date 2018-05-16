@@ -10,7 +10,7 @@ import time
 
 
 
-path = '/opt/mycroft/skills/mycroft-bitcoinprice-skill/'
+path = '/opt/mycroft/skills/mycroft-articlekeyword-skill/'
 
 
 
